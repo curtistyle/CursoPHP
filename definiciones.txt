@@ -1,0 +1,12 @@
+¿Que es un ambito de un variable?:
+
+Es el lugar de actuacion de la variable.
+
+En php existen tres ambitos: 
+
+* Local: Declarada dentro de una funcion. Visible y accesible desde dentro de la funcion
+
+* Global: Declarada en cualquier lugar dentro de codigo php (Dentro o fuera de la funcion).
+          Visible y accesible desde cualquier lugar del codigo.
+		  
+* SuperGlobar: Declarada como Array. Visible y accesible desde fuera del scrip PHP.
